@@ -1,9 +1,9 @@
 import { FormEvent, useState } from 'react'
 import { Header } from "../../components/header";
 import { Input } from "../../components/input";
-
-import { FiTrash } from 'react-icons/fi'
 // import { db } from '../../services/firebaseConnection'
+import { FiTrash } from 'react-icons/fi'
+
 import {
   addDoc,
   collection,

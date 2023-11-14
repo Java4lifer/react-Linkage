@@ -23,5 +23,5 @@ const router = createBrowserRouter([
     element: <Private><Networks/></Private>
   }
 ])
-
+//header, admin, login, routes
 export { router };
